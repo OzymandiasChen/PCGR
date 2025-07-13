@@ -80,11 +80,8 @@ Citation
 ```bibtex
 @inproceedings{chen-zeng-2025-prototype,
     title = "Prototype Conditioned Generative Replay for Continual Learning in {NLP}",
-    author = "Chen, Xi  and
-      Zeng, Min",
-    editor = "Chiruzzo, Luis  and
-      Ritter, Alan  and
-      Wang, Lu",
+    author = "Chen, Xi and Zeng, Min",
+    editor = "Chiruzzo, Luis and Ritter, Alan and Wang, Lu",
     booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
     month = apr,
     year = "2025",
