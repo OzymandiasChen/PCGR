@@ -1,0 +1,10 @@
+{"userInput": {"text": "Everything seems fine with my account, so why did it decline my payment?"}, "intent": "declined_card_payment", "labels": []}
+{"userInput": {"text": "Can you please reactivate my card?"}, "intent": "card_linking", "labels": []}
+{"userInput": {"text": "What can you tell me about the card PIN?"}, "intent": "get_physical_card", "labels": []}
+{"userInput": {"text": "Do I need to order a new card if mine is expiring?"}, "intent": "card_about_to_expire", "labels": []}
+{"userInput": {"text": "Why is the exchange rate on my card wrong?"}, "intent": "card_payment_wrong_exchange_rate", "labels": []}
+{"userInput": {"text": "While I was drunk, I goofed my PIN number and your machine ate my card. How can I get it back?"}, "intent": "pin_blocked", "labels": []}
+{"userInput": {"text": "Can you tell me why I haven't received my new card yet?"}, "intent": "card_arrival", "labels": []}
+{"userInput": {"text": "I have to quickly transfer something to China. How long will it take to arrive there?"}, "intent": "transfer_timing", "labels": []}
+{"userInput": {"text": "I did a transfer but it is still pending."}, "intent": "pending_transfer", "labels": []}
+{"userInput": {"text": "Will it be possible to change from USD to GBP with this App?"}, "intent": "exchange_via_app", "labels": []}

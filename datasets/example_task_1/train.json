@@ -1,0 +1,10 @@
+{"userInput": {"text": "The expiration of my card is near, how do I order a new card?"}, "intent": "card_about_to_expire", "labels": []}
+{"userInput": {"text": "Why is their a charge pending on my card still?"}, "intent": "pending_card_payment", "labels": []}
+{"userInput": {"text": "There are a couple payments with my card shown in the app that i really didn't make myself. What's happenning with this, does someone has access to my card?!"}, "intent": "card_payment_not_recognised", "labels": []}
+{"userInput": {"text": "I think the bank made a mistake on the exchange rates"}, "intent": "wrong_exchange_rate_for_cash_withdrawal", "labels": []}
+{"userInput": {"text": "For what reason did my top-up get cancelled?"}, "intent": "top_up_reverted", "labels": []}
+{"userInput": {"text": "I have arranged a transfer, but no longer need to send it. How do I stop the transfer?"}, "intent": "cancel_transfer", "labels": []}
+{"userInput": {"text": "The exchange rate for my electronic payment is incorrect."}, "intent": "card_payment_wrong_exchange_rate", "labels": []}
+{"userInput": {"text": "I haven't received my PIN yet. Do I need to get it from you?"}, "intent": "get_physical_card", "labels": []}
+{"userInput": {"text": "I wanted to top up my account and it doesn't look like it worked"}, "intent": "top_up_failed", "labels": []}
+{"userInput": {"text": "I can't be sure, but I think that someone may be using my card."}, "intent": "compromised_card", "labels": []}

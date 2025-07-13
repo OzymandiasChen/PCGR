@@ -1,0 +1,10 @@
+{"userInput": {"text": "I'd prefer to use my American Express when putting funds into my account."}, "intent": "supported_cards_and_currencies", "labels": []}
+{"userInput": {"text": "Good afternoon. I made a transfer from my UK bank account. I haven't seen anything on the account in the pass few hours. Please check the account to make sure everything is fine."}, "intent": "balance_not_updated_after_bank_transfer", "labels": []}
+{"userInput": {"text": "Are there any charges for top ups?"}, "intent": "top_up_by_card_charge", "labels": []}
+{"userInput": {"text": "May I change my PIN?"}, "intent": "change_pin", "labels": []}
+{"userInput": {"text": "Can an American resident apply to get a card?"}, "intent": "country_support", "labels": []}
+{"userInput": {"text": "Why is my last transfer pending?"}, "intent": "pending_transfer", "labels": []}
+{"userInput": {"text": "How do I go about transferring money using my credit card?"}, "intent": "topping_up_by_card", "labels": []}
+{"userInput": {"text": "I would like to close my account, as I'm not happy."}, "intent": "terminate_account", "labels": []}
+{"userInput": {"text": "What process should I use to transfer money into my account?"}, "intent": "transfer_into_account", "labels": []}
+{"userInput": {"text": "How can I reset my passcode?"}, "intent": "passcode_forgotten", "labels": []}

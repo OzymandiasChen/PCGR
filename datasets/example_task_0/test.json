@@ -1,0 +1,10 @@
+{"userInput": {"text": "I cannot use my disposable virtual card."}, "intent": "virtual_card_not_working", "labels": []}
+{"userInput": {"text": "Can you let me know if Visa is among the card scheme assignments?"}, "intent": "visa_or_mastercard", "labels": []}
+{"userInput": {"text": "I got less cash than the one I specified in the ATM"}, "intent": "wrong_amount_of_cash_received", "labels": []}
+{"userInput": {"text": "Do you do Visa or Mastercard?"}, "intent": "visa_or_mastercard", "labels": []}
+{"userInput": {"text": "why do your exchange rates change"}, "intent": "exchange_rate", "labels": []}
+{"userInput": {"text": "My disposable virtual card is broken."}, "intent": "virtual_card_not_working", "labels": []}
+{"userInput": {"text": "What does it mean when my top up is saying still pending?"}, "intent": "pending_top_up", "labels": []}
+{"userInput": {"text": "my phone is gone"}, "intent": "lost_or_stolen_phone", "labels": []}
+{"userInput": {"text": "Are the top-ups limited?"}, "intent": "top_up_limits", "labels": []}
+{"userInput": {"text": "How do I make contactless work"}, "intent": "contactless_not_working", "labels": []}

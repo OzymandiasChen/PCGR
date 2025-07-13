@@ -1,0 +1,11 @@
+
+export PROJECT_DIR=/path/to/your/folder
+
+export DATASETS_DIR=${PROJECT_DIR}/datasets
+export MODELS_DIR=${PROJECT_DIR}/ckpts
+export LOGS_DIR=${PROJECT_DIR}/logs
+
+export SnD_DIR=${PROJECT_DIR}/SnD
+
+
+export GPT2_DIR=${PROJECT_DIR}/gpt2

@@ -1,0 +1,10 @@
+{"userInput": {"text": "Is there a way to know when my card will arrive?"}, "intent": "card_arrival", "labels": []}
+{"userInput": {"text": "i want to close an account but im not sure about setting up a new one in the future, what do you recommend"}, "intent": "terminate_account", "labels": []}
+{"userInput": {"text": "If I want to top up, can I use Apple Pay?"}, "intent": "apple_pay_or_google_pay", "labels": []}
+{"userInput": {"text": "This company isn't good, I would like to delete my account."}, "intent": "terminate_account", "labels": []}
+{"userInput": {"text": "I was double charged, and the second charge is showing as \"pending\". How long will it be before I get my money back once the second charge has been refunded?"}, "intent": "pending_card_payment", "labels": []}
+{"userInput": {"text": "A wrong exchange rate was applied to a transaction made abroad."}, "intent": "wrong_exchange_rate_for_cash_withdrawal", "labels": []}
+{"userInput": {"text": "I need to update my info."}, "intent": "edit_personal_details", "labels": []}
+{"userInput": {"text": "I sent some money and the receiver can't access it."}, "intent": "transfer_not_received_by_recipient", "labels": []}
+{"userInput": {"text": "Do I need to verify my identity to use my account?"}, "intent": "why_verify_identity", "labels": []}
+{"userInput": {"text": "Can you help me sign up for a virtual card?"}, "intent": "getting_virtual_card", "labels": []}

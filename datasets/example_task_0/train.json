@@ -1,0 +1,10 @@
+{"userInput": {"text": "There is a payment on my card that I do not recognize. I've never seen the name on the transaction before."}, "intent": "card_payment_not_recognised", "labels": []}
+{"userInput": {"text": "How can my new card be renewed?"}, "intent": "activate_my_card", "labels": []}
+{"userInput": {"text": "I saw I was charged extra for money I withdrew?"}, "intent": "cash_withdrawal_charge", "labels": []}
+{"userInput": {"text": "Why do I need top-up to be verified?"}, "intent": "verify_top_up", "labels": []}
+{"userInput": {"text": "Why is my card payment still pending?"}, "intent": "pending_card_payment", "labels": []}
+{"userInput": {"text": "Will this app allow me to exchange currencies?"}, "intent": "exchange_via_app", "labels": []}
+{"userInput": {"text": "My refund is not showing up in my account. Where is it?"}, "intent": "Refund_not_showing_up", "labels": []}
+{"userInput": {"text": "I made a transfer and the person I transferred the money to didn't receive the right amount? Why did this happen and how do I get the rest of the money to them?"}, "intent": "transfer_fee_charged", "labels": []}
+{"userInput": {"text": "when will I get my refund?"}, "intent": "Refund_not_showing_up", "labels": []}
+{"userInput": {"text": "Can I exchange USD and GBP from the app?"}, "intent": "exchange_via_app", "labels": []}
