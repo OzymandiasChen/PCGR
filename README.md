@@ -16,7 +16,7 @@ Data Preparation
 1. Define the sequential order of your tasks from which your model will continuously learn. Place the corresponding information in the file `./SnD/info.py` using the following format:
     ```
     ORDER_DICT = {   
-        'order_0': ['example_task_0', 'example_rask_1'],
+        'order_0': ['example_task_0', 'example_task_1'],
     }
     ```
 
@@ -105,3 +105,4 @@ If you have any questions about our paper and code, please contact Xi Chen via c
 Note
 -----------------
 You might find it confusing that our main code is located in the folder `./SnD`, rather than something like `PCGR`. This is because our method focuses on improving pseudo sample quality in terms of **s**emantic a**n**d **d**istribution scales. In our initial draft, we named our method **SnD** to reflect this focus.
+
