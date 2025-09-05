@@ -104,6 +104,7 @@ If you have any questions about our paper and code, please contact Xi Chen via c
 
 Note
 -----------------
-You might find it confusing that our main code is located in the folder `./SnD`, rather than something like `PCGR`. This is because our method focuses on improving pseudo sample quality in terms of <span style="color: red;">s</span>emantic a**n**d **d**istribution scales. In our initial draft, we named our method **SnD** to reflect this focus.
+You might find it confusing that our main code is located in the folder `./SnD`, rather than something like `PCGR`. This is because our method focuses on improving pseudo sample quality in terms of \color{red}{s}emantic a**n**d **d**istribution scales. In our initial draft, we named our method **SnD** to reflect this focus.
+
 
 
