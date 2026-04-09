@@ -80,7 +80,7 @@ Citation
 -----------------
 
 ```bibtex
-@inproceedings{chen-zeng-2025-prototype,
+@inproceedings{pcgr,
     title = "Prototype Conditioned Generative Replay for Continual Learning in {NLP}",
     author = "Chen, Xi and Zeng, Min",
     editor = "Chiruzzo, Luis and Ritter, Alan and Wang, Lu",
