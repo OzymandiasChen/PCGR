@@ -102,11 +102,11 @@ The code of this repository partly relies on [PCLL](https://github.com/AlibabaRe
 
 Concact
 -----------------
-If you have any questions about our paper and code, please contact Xi Chen via chenxi.mail.1005@gmail.com.
+If you have any questions about the paper and code, please contact Xi Chen via chenxi.mail.1005@gmail.com.
 
 Note
 -----------------
-You might find it confusing that our main code is located in the folder `./SnD`, rather than something like `PCGR`. This is because our method focuses on improving pseudo sample quality in terms of **s**emantic a**n**d **d**istribution scales. In our initial draft, we named our method **SnD** to reflect this focus.
+You might find it confusing that our main code is located in the folder `./SnD`, rather than something like `PCGR`. This is because the method focuses on improving pseudo sample quality in terms of **s**emantic a**n**d **d**istribution scales. In my very initial draft, I named the method as **SnD** to reflect this focus.
 
 
 
